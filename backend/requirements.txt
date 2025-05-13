@@ -1,0 +1,11 @@
+pandas
+langchain
+langchain-core
+langchain-anthropic
+langchain-xai
+python-dotenv
+fastapi
+numpy
+pydantic
+recordlinkage
+uvicorn
