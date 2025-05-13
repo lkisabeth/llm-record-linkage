@@ -1,5 +1,7 @@
 # LLM Record Linkage Comparison
 
+<img width="1728" alt="Screenshot 2025-05-13 at 5 02 50 PM" src="https://github.com/user-attachments/assets/4ba9e29a-bd4f-4760-8266-4d8e886e8d23" />
+
 ## Project Overview
 
 This project evaluates how well large language models (LLMs) can solve the record linkage problem: grouping together records that likely refer to the same person. Since the provided dataset was artificial and did not include any labels to evaluate against ground truth, a pseudo-ground truth was created using traditional record linkage techniques. Each LLM is then asked to cluster the same data, and their outputs are evaluated against the pseudo-ground truth using a variety of metrics.
